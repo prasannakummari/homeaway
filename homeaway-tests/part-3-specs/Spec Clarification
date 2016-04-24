@@ -1,0 +1,33 @@
+1. Question: Is there any confirmation for save profile action on screen
+Expected Answer:  There should be a message saying please wait, we are updating your
+profile or settings
+
+2. Question: If password does not contain 7 to 32 characters and 1 digit or letter, what
+it should do?
+Expected Answer: It should display "Password does not meet the required criteria"
+
+3. Question: If New Password and Confirmation Password are not matching, what it should do?
+Expected Answer: It should display "New and Confirmation Passwords are not matching"
+
+4. Question: When I deactivate my profile, what will happen? 
+Expected Answer: Others will not be able to see my profile but I can still see my profile
+and I can edit, so from my end there will not be any difference to view or edit my own profile
+
+5. Question: If a profile is deactivated, can a CSR access it or not?
+Expected Answer: CSR should be able to edit any user even if it is deactivated.
+ 
+6. Question:What is the allowed length of data in each field?
+
+7. Question: What are different image files that are supported for uploading the picture?
+Expected Answer: .jpeg, .img, .tiff
+
+8. Suggestion: Can we include Email and phone number? it would be nice to have email at least
+
+9. Suggestion: When we click on deactivate profile button, remove linkedin account button or 
+Cancel button it would be nice to prompt a confirmation message.
+
+Justification:
+I would ask her the first five questions in the list. Firstly, because it will help in better
+managing the user experience and work-flow.
+If we modify requirements accordingly, there will be clarity for developers to develop
+the feature effectively instead of revisiting and duplicating the work later. 
